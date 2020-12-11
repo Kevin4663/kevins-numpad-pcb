@@ -1,0 +1,6 @@
+[submodule "kevins-pcb-numpad/MX_Alps_Hybrid"]
+	path = kevins-pcb-numpad/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "kevins-pcb-numpad/random-keyboard-parts.pretty"]
+	path = kevins-pcb-numpad/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
